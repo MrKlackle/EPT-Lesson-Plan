@@ -1,0 +1,31 @@
+name,prefix_1,prefix_2,conference,division
+Boston Celtics,bos,boston-celtics,Eastern Conference,Atlantic
+Brooklyn Nets,bkn,brooklyn-nets,Eastern Conference,Atlantic
+New York Knicks,ny,new-york-knicks,Eastern Conference,Atlantic
+Philadelphia 76ers,phi,philadelphia-76ers,Eastern Conference,Atlantic
+Toronto Raptors,tor,toronto-raptors,Eastern Conference,Atlantic
+Golden State Warriors,gs,golden-state-warriors,Western Conference,Pacific
+Los Angeles Clippers,lac,los-angeles-clippers,Western Conference,Pacific
+Los Angeles Lakers,lal,los-angeles-lakers,Western Conference,Pacific
+Phoenix Suns,phx,phoenix-suns,Western Conference,Pacific
+Sacramento Kings,sac,sacramento-kings,Western Conference,Pacific
+Chicago Bulls,chi,chicago-bulls,Eastern Conference,Central
+Cleveland Cavaliers,cle,cleveland-cavaliers,Eastern Conference,Central
+Detroit Pistons,det,detroit-pistons,Eastern Conference,Central
+Indiana Pacers,ind,indiana-pacers,Eastern Conference,Central
+Milwaukee Bucks,mil,milwaukee-bucks,Eastern Conference,Central
+Dallas Mavericks,dal,dallas-mavericks,Western Conference,Southwest
+Houston Rockets,hou,houston-rockets,Western Conference,Southwest
+Memphis Grizzlies,mem,memphis-grizzlies,Western Conference,Southwest
+New Orleans Hornets,no,new-orleans-hornets,Western Conference,Southwest
+San Antonio Spurs,sa,san-antonio-spurs,Western Conference,Southwest
+Atlanta Hawks,atl,atlanta-hawks,Eastern Conference,Southeast
+Charlotte Bobcats,cha,charlotte-bobcats,Eastern Conference,Southeast
+Miami Heat,mia,miami-heat,Eastern Conference,Southeast
+Orlando Magic,orl,orlando-magic,Eastern Conference,Southeast
+Washington Wizards,wsh,washington-wizards,Eastern Conference,Southeast
+Denver Nuggets,den,denver-nuggets,Western Conference,Northwest
+Minnesota Timberwolves,min,minnesota-timberwolves,Western Conference,Northwest
+Oklahoma City Thunder,okc,oklahoma-city-thunder,Western Conference,Northwest
+Portland Trail Blazers,por,portland-trail-blazers,Western Conference,Northwest
+Utah Jazz,uta,utah-jazz,Western Conference,Northwest
